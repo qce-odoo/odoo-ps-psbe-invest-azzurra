@@ -1,0 +1,1 @@
+# odoo-ps-psbe-invest-azzurra
